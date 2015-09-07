@@ -28,10 +28,11 @@ Resources for learning Norwegian.
 
 ## "Offline" Lessons (in downtown Oslo)
 
-* http://www.folkeuniversitetet.no/english-pages/norwegian-courses/norwegian-courses-in-oslo-and-vicinity/side-id-10082/
+* http://www.folkeuniversitetet.no/about-us/side-id-10080/
 * http://www.alfaskolen.no/en/one-year-program/one-year-program-201516
 * http://www.learnnorwegian.no/kurstilbud
 * http://www.berlitz.no/en/oslo/
+* http://www.fremmedsprakskole.no
 
 For students:
 
