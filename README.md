@@ -28,11 +28,18 @@ Resources for learning Norwegian.
 
 ## "Offline" Lessons (in downtown Oslo)
 
-* http://www.folkeuniversitetet.no/about-us/side-id-10080/
 * http://www.alfaskolen.no/en/one-year-program/one-year-program-201516
-* http://www.learnnorwegian.no/kurstilbud
 * http://www.berlitz.no/en/oslo/
-* http://www.fremmedsprakskole.no
+* http://www.educateoslo.no/kursoversikt/
+* http://www.folkeuniversitetet.no/about-us/side-id-10080/
+* http://www.fremmedsprakskole.no/course/norwegian/
+* http://www.languagepower.no/en/language-course/norwegian/ordinary-courses
+* http://www.learnnorwegian.no/kurstilbud
+* http://www.mestizo1.no/?page_id=11
+* http://www.norsktimen.no
+* http://rosenhof.oslovo.no (Voksen opplæring)
+* http://www.victusschool.no
+
 
 For students:
 
@@ -56,6 +63,8 @@ For students:
 
 * [Norwegian Teacher - Karin](https://www.youtube.com/channel/UC-kvsbMKDTLfbdzmgGQ7rNQ)
 * [Thirduncle1's Norwegian Language Channel](https://www.youtube.com/channel/UC86CARPxmrdksY-kzjX3EUg)
+* [Mummidalen](https://www.youtube.com/watch?v=XBmYoQ7BmWs)
+* [Pokemon på norsk](https://www.youtube.com/watch?v=CBUoRmdfmSg&list=PLXhOOAUT-HYQQiImfmdcOnw-5rwkgTWyP)
 
 ## Newspapers
 
@@ -70,3 +79,6 @@ For students:
 * [Useful Norwegian phrases](http://www.omniglot.com/language/phrases/norwegian.php)
 * [Norskprøve](http://www.vox.no/norskprove/)
 * [All you should know about Norwegian language exams](http://norwaytoday.info/education_view.php?id=127990)
+* [10 tips for learning Norwegian quickly (and free)](https://norwegiancourse.no/10-tips-learning-norwegian-quickly/)
+* [Do you want to learn Norwegian?](http://www.norway.cn/News_and_events/Education-and-research/Education/Do-you-want-to-learn-Norwegian/)
+* [Learn Norwegian Phrases, Vocabulary and Grammar](http://www.ielanguages.com/norwegian1.html)
