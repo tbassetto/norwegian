@@ -82,3 +82,7 @@ For students:
 * [10 tips for learning Norwegian quickly (and free)](https://norwegiancourse.no/10-tips-learning-norwegian-quickly/)
 * [Do you want to learn Norwegian?](http://www.norway.cn/News_and_events/Education-and-research/Education/Do-you-want-to-learn-Norwegian/)
 * [Learn Norwegian Phrases, Vocabulary and Grammar](http://www.ielanguages.com/norwegian1.html)
+
+## Norwegian language council
+
+* [Språkrådet](www.sprakradet.no)
